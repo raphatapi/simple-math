@@ -6,3 +6,7 @@ body {
     background-size: cover;
 
 }
+
+.card-body h5 {
+    margin: 0;
+}
